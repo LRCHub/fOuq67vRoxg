@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "みちくさイズム",
+  "base_artist": "篠沙季ナユタ",
+  "createdAt": "2026-02-08T14:42:02.975055Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "みちくさイズム (feat. 綿菓子かんろ)",
+      "artist": "篠沙季ナユタ",
+      "has_synced": false,
+      "path": "select/pl_01_みちくさイズム_(feat._綿菓子かんろ)_篠沙季ナユタ.txt"
+    }
+  ]
+}
